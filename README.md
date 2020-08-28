@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-**The Coronavirus Dashboard: the case of Belgium**
+**The Coronavirus Dashboard: the case of NZ**
 
 This Coronavirus dashboard: the case of Belgium provides an overview of
 the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic for Belgium.
